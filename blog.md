@@ -3,8 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-## Blgog
+## Blog
 
+Find here all the blog posts shared in our website
 <ul>
   {% for post in site.posts %}
     <li>
