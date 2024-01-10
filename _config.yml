@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: OSINT.CAT website
 description: Bookmark this to keep an eye on my project updates!
+permalink: /:categories/:year/:month/:day/:title:output_ext
